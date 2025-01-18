@@ -1,5 +1,6 @@
 ## Mobile Games
 Цель - анализ продуктовых метрик мобильной игры
+
 Стэк - Pandas, Matplotlib, Seaborn, Numpy, Scipy
 
 Этапы работы:
